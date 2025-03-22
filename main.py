@@ -4,7 +4,7 @@ from business_logic import base_requests
 
 # Comment
 # Comment2
-# CCCCCCCC
+# CONFLICT HERE PLS
 # Comment3
 parser = ArgumentParser(
     "Trading robot simulator",
