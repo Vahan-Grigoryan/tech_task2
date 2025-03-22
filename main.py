@@ -2,6 +2,9 @@ from argparse import ArgumentParser
 from business_logic import base_requests
 
 
+# Comment
+# Comment2
+# Comment3
 parser = ArgumentParser(
     "Trading robot simulator",
 )
