@@ -1,1 +1,1 @@
-ex1.txt first line | ex_branch1 changed
+ex1.txt first line | ex_branch1 changed main
