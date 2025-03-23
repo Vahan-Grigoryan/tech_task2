@@ -1,2 +1,3 @@
 ex3.txt first line | ex_branch1 changed 2
+ex3.txt first line | ex_branch1 changed main
 
