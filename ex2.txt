@@ -1,2 +1,2 @@
-ex2.txt first line | main changed main
+ex2.txt first line | main changed 2
 
