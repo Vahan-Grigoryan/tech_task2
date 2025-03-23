@@ -6,6 +6,7 @@ from business_logic import base_requests
 # Comment2
 # CONFLICT HERE PLS
 # Comment3
+# JUST MUSOR
 parser = ArgumentParser(
     "Trading robot simulator",
 )
