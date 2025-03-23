@@ -2,7 +2,7 @@ from argparse import ArgumentParser
 from business_logic import base_requests
 
 
-# -----
+# JUST ANOTHER CONFLICT PLS
 parser = ArgumentParser(
     "Trading robot simulator",
 )
